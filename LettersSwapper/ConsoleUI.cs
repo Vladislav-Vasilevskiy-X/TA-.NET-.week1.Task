@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
+/**
+    Task: •	Change by places first and last letters in each second string of list or array 
+*/
+
 namespace LettersSwapper
 {
     class ConsoleUI

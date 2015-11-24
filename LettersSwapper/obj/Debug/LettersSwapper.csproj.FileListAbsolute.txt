@@ -1,0 +1,6 @@
+C:\Users\Uladzislau_Parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\LettersSwapper\bin\Debug\LettersSwapper.exe.config
+C:\Users\Uladzislau_Parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\LettersSwapper\obj\Debug\LettersSwapper.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\LettersSwapper\bin\Debug\LettersSwapper.exe
+C:\Users\Uladzislau_Parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\LettersSwapper\bin\Debug\LettersSwapper.pdb
+C:\Users\Uladzislau_Parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\LettersSwapper\obj\Debug\LettersSwapper.exe
+C:\Users\Uladzislau_Parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\LettersSwapper\obj\Debug\LettersSwapper.pdb

@@ -4,3 +4,6 @@ c:\users\uladzislau_parkhutsich@epam.com\documents\visual studio 2015\Projects\C
 c:\users\uladzislau_parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 c:\users\uladzislau_parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 c:\users\uladzislau_parkhutsich@epam.com\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\TA-.NET-.week1.Task\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\TA-.NET-.week1.Task\Calculator\obj\Debug\Calculator.exe
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\TA-.NET-.week1.Task\Calculator\obj\Debug\Calculator.pdb

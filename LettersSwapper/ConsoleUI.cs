@@ -15,12 +15,13 @@ namespace LettersSwapper
             ConsoleUI.Run();
         }
 
+        //Runs ui
         public static void Run()
         {
-            List<string> listOfStrings = new List<string>();
-
-
+            List<string> listOfStrings = new List<string>();    //list of strings, for swapping
             Console.WriteLine("Type strings for swapping ('stop' - will stop typing).");
+            
+            //loop for strings input
             while (true)
             {
                 string typedString = Console.ReadLine();
@@ -41,6 +42,7 @@ namespace LettersSwapper
             
         }
 
+        //Prints list of pasted string on the screen
         public static void printList(List<string> list)
         {
             Console.WriteLine("\nList:");

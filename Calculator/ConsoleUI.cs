@@ -5,16 +5,19 @@ class ConsoleUI
 {
     static void Main(string[] args)
     {
+        //Main loop
         ConsoleUI.doLoop();
     }
 
+    //Loop for console UI
     public static void doLoop()
     {
         List<double> list = new List<double>();
-        string line;
-        double number = 0;
-        int operationNumber = 0;
+        string line;    //line will be readed from the console
+        double number = 0;      //number will be readed from the console
+        int operationNumber = 0;    //operation's id
 
+        //loop for input numbers
         while (true)
         {
             Console.WriteLine("Type the number (type 's' to stop typing).");
@@ -32,6 +35,7 @@ class ConsoleUI
 
         }
 
+        //loop for operation choosing
         while (true)
         {
             ConsoleUI.printOperations();
@@ -48,6 +52,7 @@ class ConsoleUI
         }
     }
 
+    //Returns result of choosen operation and pasted numbers
     public static double doOperation(int operationNumber, List<double> array)
     {
         switch(operationNumber)
@@ -72,6 +77,7 @@ class ConsoleUI
         }
     }
 
+    //Prints the list of operations on the screen
     public static void printOperations()
     {
         Console.WriteLine("1 - Addition.");

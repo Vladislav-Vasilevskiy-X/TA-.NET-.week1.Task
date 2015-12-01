@@ -3,6 +3,8 @@ using System.Linq;
 
 class Claculator
 {
+    //Add all numbers to each other from parametes list
+    //and returns the result
     public static double Add(List<double> parameters)
     {
         double result = 0;
@@ -13,6 +15,8 @@ class Claculator
         return result;
     }
 
+    //Substarct numbers from parametes list
+    //and returns the result
     public static double Substract(List<double> parameters)
     {
         double result = 0;
@@ -23,6 +27,8 @@ class Claculator
         return result;
     }
 
+    //Multiply all numbers to each other from parametes list
+    //and returns the result
     public static double Multiply(List<double> parameters)
     {
         double result = 1;
@@ -33,6 +39,8 @@ class Claculator
         return result;
     }
 
+    //Devide all numbers to each other from parametes list
+    //and returns the result
     public static double Devide(List<double> parameters)
     {
         double result = parameters.ElementAt(0);
